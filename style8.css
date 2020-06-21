@@ -1,0 +1,43 @@
+.couco{
+	color:purple;
+	margin:2px;
+	font-family:Verdana, sans-serif;
+	}
+.ok {
+	width: 200px;
+    height: 150px;
+    float:left;
+    margin:1px ;
+    border: 2px black solid;
+    font-family:Verdana, sans-serif;
+    }
+    
+body {
+	border: 2px black solid;
+	margin:2px;
+	font-family:Verdana, sans-serif;
+	background-image:url("coucou.jpg");
+	}
+
+.lool{
+		margin:15px;
+		float:justify;
+		font-family:Verdana, sans-serif;
+		}
+	
+.reste{
+margin:10px;
+	display:inline;
+	 float: left;
+    list-style-type: none;
+    width: 300px;
+    height: 30px;
+    font-family:Verdana, sans-serif;	
+    }
+.sale{
+font-weight:bold;
+margin:5px;
+text-align:justify;
+font-family:Verdana, sans-serif;
+
+}

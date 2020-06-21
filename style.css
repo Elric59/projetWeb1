@@ -1,0 +1,46 @@
+.ll{display:inline;
+	 float: left;
+
+    width: 300px;
+    height: 20px;			
+		
+	font-family:Verdana,sans-serif;
+    text-align:center;
+    text-shadow: 2px 2px 4px white;
+    
+
+}
+
+a:hover{color: grey;
+		font-family:Verdana, sans-serif;}
+
+p {text-align: center}
+
+
+body {background: white;
+	border:2px black double;
+background-image:url("coucou.jpg");
+	
+}
+
+.Q {
+	text-align:center;
+	font-family:Verdana, sans-serif;
+	}
+	
+ul {
+     box-shadow: 1px 1px 3px #333;
+    text-shadow: 0 1px 0 black;
+   font-family:Verdana, sans-serif;
+    }
+.coo{
+	text-align:center;
+font-family:Verdana, sans-serif;
+	}
+.gif{
+		text-align:center;
+		
+}
+.ccc{
+	margin:15px
+	}

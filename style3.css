@@ -1,0 +1,66 @@
+.lel{
+	border: 2px black double;
+	
+	font-size:12px;
+	}
+
+.pc{
+color:#800080;
+font-family:Verdana, sans-serif;
+}
+.ok{
+	float:left;
+	width: 180px;
+    height: 150px;
+    margin: 1px;
+    border:2px grey solid;
+   
+    
+    
+	}
+	
+.pc1{
+	color:#0000CD;
+	text-decoration:underline;
+	font-family:Verdana, sans-serif;
+	
+	}
+
+.pc2{
+color:#0000CD;
+	text-decoration:underline;
+	font-family:Verdana, sans-serif;
+	
+	}
+
+.pc3{
+color:#0000CD;
+	text-decoration:underline;
+	font-family:tahoma, sans-serif;
+	}
+.pc4{
+color:#0000CD;
+	text-decoration:underline;
+	font-family:tahoma, sans-serif;
+	}
+.pc5{
+color:#0000CD;
+	text-decoration:underline;
+	font-family:tahoma, sans-serif;
+	}
+.pc6{
+color:#0000CD;
+	text-decoration:underline;
+	font-family:tahoma, sans-serif;
+	}	
+	
+.reste{
+margin:10px;
+	display:inline;
+	 float: left;
+    list-style-type: none;
+    width: 300px;
+    height: 30px;
+    font-family:Verdana, sans-serif;	
+    }
+body{background-image:url("coucou.jpg");}

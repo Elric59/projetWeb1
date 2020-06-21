@@ -1,0 +1,67 @@
+progress {
+   display:  inline-block ;
+   width: 300px;
+   padding: 4px;
+   border: 0 none;
+   background: lightgrey;
+   border-radius: 14px;
+
+}
+
+
+.reste{
+	display:inline;
+	 float: left;
+ margin:5px;
+    width: 220px;
+    height: 40px;	
+    font-family:Verdana, sans-serif;
+    text-align:center
+}	
+
+
+
+.tab {
+    border: 2px black solid;
+    margin : 20px;
+
+    text-align: justify;
+    font-family:Verdana, sans-serif;
+}
+.centre{
+    text-align: center;
+    font-weight: bold;
+    font-family:Verdana, sans-serif;}
+    
+.coch{
+    font-style: italic;
+    font-size: 10px;
+    font-family:Verdana, sans-serif;
+}
+
+.question {
+    color: blue;
+    font-weight: bold  ;
+    font-family:Verdana, sans-serif;}
+    
+p{
+    color: blue;
+    font-weight: bold;
+    font-family:Verdana, sans-serif;
+}
+
+.bleu{
+    color:blue;
+    font-family:Verdana, sans-serif;
+}
+
+body{	background-image:url("coucou.jpg");}
+
+.co{width: 220px;
+text-align:center;
+display:inline-block
+	}
+	
+.center{ 
+    text-align:center;
+}

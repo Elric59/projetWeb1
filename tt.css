@@ -1,0 +1,39 @@
+.cc{
+width:220px;
+height:270px;
+margin:25px;
+
+
+}
+body{
+	font-family:verdana,sans-serif; 
+	border:3px black double;
+	background-image:url("gray-texture-surface-roughness.jpg");
+	margin:auto
+	
+	}
+.noir {
+		font-weight:bold;
+		font-family:verdana,sans-serif;
+		font-size:small
+		
+		 }
+.titre {font-weight:bold;
+		font-family:verdana,sans-serif;
+		font-size:medium;
+		text-decoration:underline
+		}	
+h1{
+	font-size:25px;
+	font-family:verdana,sans-serif;
+	text-decoration:underline;
+	}
+	
+.Q {
+	text-align:center;
+	width: 300px;
+    height: 30px;
+    font-family:Verdana, sans-serif;	
+	}
+	
+		
